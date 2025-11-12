@@ -17,8 +17,8 @@ The tool allows users to:
 |------|--------------|
 | `dhke.py` | Main Python script implementing Diffie-Hellman + AES-256 pipeline. |
 | `requirements.txt` | Python dependencies for the project. |
-| `solution.png` | Screenshot showing program output (decryption + encryption results). |
-| `solution2.png` | Additional output example or verification screenshot. |
+| `solution.png` | Screenshot showing program + output |
+| `solution2.png` | Screenshot showing zoomed output |
 | `README.md` | Project documentation and usage instructions. |
 
 ---
