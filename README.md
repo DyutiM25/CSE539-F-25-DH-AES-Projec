@@ -116,7 +116,7 @@ Below are example test cases to verify that your **Diffie-Hellman + AES-256 (CBC
 
 ---
 
-### 🧩 Example 1 — Little Endian (Default)
+### 🧩 Example 1 — Little Endian
 
 **Command:**
 ```bash
@@ -142,7 +142,7 @@ Explanation:
 ---
 
 ---
-🧮 Example 2 — Big Endian Key Variant
+### 🧮 Example 2 — Big Endian Key Variant
 
 **Command:**
 ```bash
@@ -162,14 +162,17 @@ Expected Output:
 ```bash
 9B BE 7C EC 7F BC CD 58 EA D3 75 62 1F 03 8A 40 E2 CB 8B 80 21 3E CF 8B B4 F5 2D 7F D3 10 6B 9A 27 E6 7A 90 06 19 BD 8B 1F 30 02 3A B3 2D 16 A8, 52 1F 0A E8 0F 52 4E 37 91 47 9F 61 AA 13 51 7D 96 DA F6 DC F0 3B 2E 79 EE EE A8 5D 0F CA 83 35 FE 4C 6D 19 5D 96 7D 6F 8C 11 2C AD DE 2B E5 E2
 ```
-
+---
 ##  Screenshot References:
 
 output1.png — Whole Code
+
 ![Solution Output](output1.png)
 
 output2.png — Zoomed on Output
+
 ![Solution Output](output2.png)
+
 --- 
 
 ### 🧠 Key Functions Overview
